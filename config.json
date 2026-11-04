@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-apps",
+      "title": "Aplicações Web com Flask",
+      "description": "Build a server-rendered Python web app with Flask, Jinja templates, and HTML forms",
+      "path": "assignments/flask-web-apps",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
